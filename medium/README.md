@@ -1,2 +1,0 @@
-# Medium
-Aufgaben mittlerer Schwierigkeit,
